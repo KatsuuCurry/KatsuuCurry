@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Theofilia</h1>
-<h3 align="center">Indonesian IT Student living and studying in UniMiB</h3>
+<h3 align="center">Indonesian IT student living in Italy and studying in UniMiB</h3>
 
 - 🔭 I’m currently studying **Information Technology in UniMiB in Milan**
 
