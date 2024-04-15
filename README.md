@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Theofilia</h1>
-<h3 align="center">Indonesian IT student living in Italy and studying in UniMiB</h3>
+<h3 align="center">Indonesian CS student living in Italy and studying in UniMiB</h3>
 
-- 🔭 I’m currently studying **Information Technology in UniMiB in Milan**
+- 🔭 I’m currently studying **Computer Science in UniMiB in Milan**
 
-- 🌱 I’m aiming to specialize in **CyberSecurity**
+- 🌱 I’m aiming to specialize in **Cybersecurity**
 
 - 🖥️ I’m training with **CyberChallenge.IT**
 
