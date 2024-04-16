@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Theofilia</h1>
 <h3 align="center">Indonesian CS student living in Italy and studying in UniMiB</h3>
 
