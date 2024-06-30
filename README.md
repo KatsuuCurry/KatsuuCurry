@@ -5,7 +5,7 @@
 
 - 🌱 I’m aiming to specialize in **Cybersecurity**
 
-- 🖥️ I’m training with **CyberChallenge.IT**
+- 🖥️ I’m working as **Cybersecurity Analyst**
 
 - 🤝 I’m also sharing all my [uni notes :)](https://github.com/KatsuuCurry/appunti-katzu)
 
