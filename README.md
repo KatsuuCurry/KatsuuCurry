@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Computer Science in Università degli Studi di Milano-Bicocca in Italy**
 
-- 🌱 I’m aiming to specialize in **CyberSecurity**
+- 🌱 I’m aiming to specialize in **Cybersecurity**
 
 - 🖥️ I’m working as a **Cybersecurity Analyst**
 
