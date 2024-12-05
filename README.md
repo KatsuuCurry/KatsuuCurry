@@ -72,10 +72,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KatsuuCurry.KatsuuCurry&"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media1.tenor.com/m/_HwQHDixHnMAAAAd/kitten-cat.gif"  />
-
-###
