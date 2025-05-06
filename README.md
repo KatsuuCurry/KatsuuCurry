@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! I am Theofilia Jessica 🐱</h2>
+<h2 align="left">Hi! I am Theofilia Jessica 👩🏽‍💻🍀</h2>
 
 ###
 
-<h3 align="left">Indonesian IT student living in Italy and studying in UniMiB 📚</h3>
+<h3 align="left">BCs CS student in Bicocca and full-time Cybersecurity Analyst in Milan 🛡️</h3>
 
 ###
 
-<p align="left">🔭 I’m currently studying Computer Science in Università degli Studi di Milano-Bicocca in Italy<br><br>🌱 I’m aiming to specialize in Cybersecurity<br><br>🖥️ I’m working as a Cybersecurity Analyst<br><br>🤝 I’m also sharing all my uni notes for the future CS student! Check out my repo appunti-katzu<br><br>👨‍💻 Check my portfolio https://theofilia-jessica.carrd.co<br><br>💬 My pronouns are she/her<br><br>📫 How to reach me theofilia.jessica@gmail.com<br><br>⚡ Fun fact I really like cats 🐱</p>
+<p align="left">🌿 I am currently completing my Bachelor of Science degree in Computer Science at the University of Milano-Bicocca. <br><br> 🌿 In September 2024, I started working full-time as a Cybersecurity Analyst in Moviri.<br><br> 🌿 In September 2025, will be starting my MSc in Cybersecurity in University of Milano-Statale.<br><br> 🌿 In my free-time, I volunteer as an IT technician and manage my church website.<br><br> 🌿 Occasionally I help younger students with studies and answer all their questions :> I also share all my university notes! Check out my repository appunti-katzu<br><br>🌿 Check my website https://theofilia-jessica.carrd.co<br><br>🌿 Fun fact I really like cats 🐱</p>
 
 ###
 
