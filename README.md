@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">BCs CS student in Bicocca and full-time Cybersecurity Analyst in Milan 🛡️</h3>
+<h3 align="left">CS student in Bicocca and full-time Cybersecurity Analyst in Milan 🛡️</h3>
 
 ###
 
