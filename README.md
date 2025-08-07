@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌿 I am currently completing my Bachelor of Science degree in Computer Science at the University of Milano-Bicocca. <br><br> 🌿 In September 2024, I started working full-time as a Cybersecurity Analyst in Moviri.<br><br> 🌿 In September 2025, will be starting my MSc in Cybersecurity in University of Milano-Statale.<br><br> 🌿 In my free-time, I volunteer as an IT technician and manage my church website.<br><br> 🌿 Occasionally I help younger students with studies and answer all their questions :> I also share all my university notes! Check out my repository <a href="https://github.com/KatsuuCurry/appunti-katzu" target="_blank">appunti-katzu</a><br><br>🌿 Check my website https://theofilia-jessica.carrd.co<br><br>🌿 Fun fact I really like cats 🐱</p>
+<p align="left">🌿 I graduated with a BSc in Computer Science from the University of Milano-Bicocca and am currently a MSc student in Cybersecurity in University of Milano-Statale. <br><br> 🌿 In September 2024, I started working full-time as a Cybersecurity Analyst in Moviri.<br><br> 🌿 In my free-time, I volunteer as an IT technician and manage my church website.<br><br> 🌿 Occasionally I help younger students with studies and answer all their questions :> I also share all my university notes! Check out my repository <a href="https://github.com/KatsuuCurry/appunti-katzu" target="_blank">appunti-katzu</a><br><br>🌿 Check my website https://theofilia-jessica.carrd.co<br><br>🌿 Fun fact I really like cats 🐱</p>
 
 ###
 
