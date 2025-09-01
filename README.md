@@ -1,18 +1,27 @@
-<h2 align="left">Hi! I am Theofilia Jessica 👩🏽‍💻🍀</h2>
-
-###
-
-<h3 align="left">Cybersecurity student and full-time Cybersecurity Analyst 🛡️</h3>
-
-###
-
-<p align="left">🌿 I graduated with a BSc in Computer Science from the University of Milano-Bicocca and am currently a MSc student in Cybersecurity in University of Milano-Statale. <br><br> 🌿 In September 2024, I started working full-time as a Cybersecurity Analyst in Moviri.<br><br> 🌿 In my free-time, I volunteer as an IT technician and manage my church website.<br><br> 🌿 Occasionally I help younger students with studies and answer all their questions :> I also share all my university notes! Check out my repository <a href="https://github.com/KatsuuCurry/appunti-katzu" target="_blank">appunti-katzu</a><br><br>🌿 Check my website https://theofilia-jessica.carrd.co<br><br>🌿 Fun fact I really like cats 🐱</p>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KatsuuCurry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KatsuuCurry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+<h1 align="center">Welcome in my little world ✨</h2>
+<table>
+<tr>
+<td valign="top" width="60%">
+<h3>Cybersecurity student and full-time Cybersecurity Analyst 🔐</h3>
+<p align="left">
+🎓 I graduated with a BSc in Computer Science from the University of Milano-Bicocca and am currently a MSc student in Cybersecurity in University of Milano-Statale. <br><br>
+💼 In September 2024, I started working full-time as a Cybersecurity Analyst in Moviri.<br><br>
+🪁 In my free-time, I volunteer as an IT technician and manage my church website.<br><br>
+📚 Occasionally I help younger students with studies and answer all their questions :> I also share all my university notes! Check out my <a href="https://github.com/KatsuuCurry/appunti-katzu" target="_blank">repository</a>.<br><br>
+💻 Check out my <a href="https://theofilia-jessica.carrd.co" target="_blank">website</a>.<br><br>
+🐈‍⬛ Fun fact I really like cats!<br><br><br>
+</p>
+</td>
+<td valign="center" width="40%">
+<img height="400" src="https://i.imgur.com/7In3phR.gif" alt="Animated GIF"/><br><br>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KatsuuCurry.KatsuuCurry&left_color=brown"  />
+</div>
+
+</td>
+</tr>
+</table>
 </div>
 
 ###
@@ -70,13 +79,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KatsuuCurry.KatsuuCurry&left_color=lightblue"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KatsuuCurry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=maroongold&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=KatsuuCurry&locale=en&mode=daily&theme=maroongold&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatsuuCurry&radius=16&theme=tokyo-day&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/a9/c2/cd/a9c2cd6f9d5a954604a9f5ca7cdaa75a.gif"  />
-</div>
-
-###
