@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td valign="top" width="60%">
-<h3>Cybersecurity student and full-time Cybersecurity Analyst 🔐</h3>
+<h3>Cybersecurity student and Cybersecurity Analyst 🔐</h3>
 <p align="left">
 🎓 I graduated with a BSc in Computer Science from the University of Milano-Bicocca and am currently a MSc student in Cybersecurity in University of Milano-Statale. <br><br>
 💼 In September 2024, I started working full-time as a Cybersecurity Analyst in Moviri.<br><br>
@@ -14,11 +14,11 @@
 </p>
 </td>
 <td valign="center" width="40%">
-<img height="400" src="https://i.imgur.com/7In3phR.gif" alt="Animated GIF"/><br><br>
+<img height="400" src="https://i.imgur.com/7In3phR.gif" alt="Animated GIF"/>
 <div align="center">
+  𝒫𝓊𝓇𝓈𝓊𝑒 𝓎𝑜𝓊𝓇 𝒹𝓇𝑒𝒶𝓂𝓈 <br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KatsuuCurry.KatsuuCurry&left_color=brown"  />
 </div>
-
 </td>
 </tr>
 </table>
